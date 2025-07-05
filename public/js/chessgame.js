@@ -204,7 +204,7 @@ const handleMove = (source, target) => {
 const getPieceUnicode = (piece) => {
   const unicodePieces = {
     K: "♔", Q: "♕", R: "♖", B: "♗", N: "♘", P: "♙",  // White pieces
-    k: "♚", q: "♛", r: "♜", b: "♝", n: "♞", p: "♟"   // Black pieces
+    k: "♚", q: "♛", r: "♜", b: "♝", n: "♞", p: "♙"   // Black pieces
   };
   return unicodePieces[piece.type] || "";
 };
