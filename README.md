@@ -6,10 +6,10 @@ A real-time multiplayer chess game using Socket.io and chess.js.
 ![Game in Progress](gameplay.png)
 *Two players engaged in a match with white's turn*
 
-![Spectator  View](spectator mode.png)
+![Spectator  View](spectator.png)
 *Spectator watching an ongoing game*
 
-![Mobile Responsive](mobile view.png)
+![Mobile Responsive](mobile-view.png)
 *Mobile-friendly interface with touch support*
 
 ## Client-side Implementation (`script.js`)
